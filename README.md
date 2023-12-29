@@ -1,0 +1,1 @@
+##Toqiq is a Todo List Webapp, a list of the tasks that you have to do, or things that you want to do. User can add new tasks to Todiq with title, description and the complete check mark (in case the task is completed), edit the task, delete the task. User have to register in Todiq after that they can their persoanl task in Todiq.
